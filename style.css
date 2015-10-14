@@ -1,0 +1,20 @@
+#demo {
+        border: 1px solid green;
+        border-width: thick;
+        text-align:center;
+        color:red;
+       }
+      .red{
+        background-color:#0099CC;
+        }
+      .positioning{
+        text-align:center;
+      }
+      .wrapper{
+        margin-top:10px;
+        text-align:center;
+      }
+      .button{
+        position:absolute;
+        
+      }
